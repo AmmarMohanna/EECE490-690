@@ -1,0 +1,51 @@
+student_id,gender,age,study_time,parental_education,breakfast,lunch,previous_score,attendance_rate,final_grade
+1,Male,18,2,High School,Yes,Yes,75,0.85,78
+2,Female,17,3,Bachelor's,Yes,Yes,82,0.92,85
+3,Male,19,1,High School,No,Yes,68,0.78,72
+4,Female,18,4,Master's,Yes,Yes,88,0.95,91
+5,Male,17,2,High School,Yes,No,71,0.80,74
+6,Female,19,3,Bachelor's,Yes,Yes,79,0.88,83
+7,Male,18,1,High School,No,No,65,0.75,68
+8,Female,17,4,Master's,Yes,Yes,90,0.96,93
+9,Male,19,2,Bachelor's,Yes,Yes,76,0.82,79
+10,Female,18,3,High School,Yes,No,73,0.85,77
+11,Male,17,1,High School,No,Yes,67,0.70,70
+12,Female,19,4,Bachelor's,Yes,Yes,85,0.93,88
+13,Male,18,2,High School,Yes,Yes,72,0.78,75
+14,Female,17,3,Master's,Yes,Yes,87,0.94,90
+15,Male,19,1,High School,No,No,64,0.72,67
+16,Female,18,4,Bachelor's,Yes,Yes,89,0.95,92
+17,Male,17,2,High School,Yes,No,70,0.80,73
+18,Female,19,3,Master's,Yes,Yes,86,0.92,89
+19,Male,18,1,High School,No,Yes,66,0.75,69
+20,Female,17,4,Bachelor's,Yes,Yes,91,0.96,94
+21,Male,19,2,High School,Yes,Yes,74,0.82,77
+22,Female,18,3,Master's,Yes,Yes,84,0.91,87
+23,Male,17,1,High School,No,No,63,0.68,66
+24,Female,19,4,Bachelor's,Yes,Yes,92,0.97,95
+25,Male,18,2,High School,Yes,No,69,0.78,72
+26,Female,17,3,Master's,Yes,Yes,83,0.90,86
+27,Male,19,1,High School,No,Yes,65,0.73,68
+28,Female,18,4,Bachelor's,Yes,Yes,93,0.98,96
+29,Male,17,2,High School,Yes,Yes,73,0.80,76
+30,Female,19,3,Master's,Yes,Yes,81,0.89,84
+31,Male,18,1,High School,No,No,62,0.70,65
+32,Female,17,4,Bachelor's,Yes,Yes,94,0.99,97
+33,Male,19,2,High School,Yes,No,68,0.76,71
+34,Female,18,3,Master's,Yes,Yes,80,0.88,83
+35,Male,17,1,High School,No,Yes,64,0.72,67
+36,Female,19,4,Bachelor's,Yes,Yes,95,1.00,98
+37,Male,18,2,High School,Yes,Yes,72,0.78,75
+38,Female,17,3,Master's,Yes,Yes,79,0.87,82
+39,Male,19,1,High School,No,No,61,0.68,64
+40,Female,18,4,Bachelor's,Yes,Yes,96,1.00,99
+41,Male,17,2,High School,Yes,No,67,0.74,70
+42,Female,19,3,Master's,Yes,Yes,78,0.86,81
+43,Male,18,1,High School,No,Yes,63,0.70,66
+44,Female,17,4,Bachelor's,Yes,Yes,97,1.00,100
+45,Male,19,2,High School,Yes,Yes,71,0.76,74
+46,Female,18,3,Master's,Yes,Yes,77,0.85,80
+47,Male,17,1,High School,No,No,60,0.65,63
+48,Female,19,4,Bachelor's,Yes,Yes,98,1.00,100
+49,Male,18,2,High School,Yes,No,66,0.72,69
+50,Female,17,3,Master's,Yes,Yes,76,0.84,79 
