@@ -1,4 +1,4 @@
-name: eda_project
+name: inclass-lab
 channels:
   - conda-forge
   - defaults
