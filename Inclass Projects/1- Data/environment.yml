@@ -1,4 +1,4 @@
-name: inclass-lab
+name: data-lab
 channels:
   - conda-forge
   - defaults

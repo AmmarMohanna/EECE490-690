@@ -9,8 +9,6 @@ This project provides a hands-on experience with Exploratory Data Analysis (EDA)
 - `student_performance.csv` - Dataset with 50 student records
 - `requirements.txt` - Python package dependencies
 - `environment.yml` - Conda environment file
-- `instructor_guide.md` - Teaching guide with solutions
-- `README.md` - This file
 
 ## Dataset Description
 The `student_performance.csv` contains the following features:
@@ -35,7 +33,7 @@ The `student_performance.csv` contains the following features:
 ```bash
 # Create and activate conda environment
 conda env create -f environment.yml
-conda activate inclass-lab
+conda activate data-lab
 
 # Launch Jupyter Notebook
 jupyter notebook
@@ -69,27 +67,6 @@ jupyter notebook
 - Pattern recognition
 - Insight generation
 - Best practice identification
-
-## Session Timeline (90 minutes)
-
-### Kick-off (0-10 min)
-- EDA best practices overview
-- Project structure explanation
-
-### Live Demo (10-55 min)
-- Instructor walkthrough of notebook sections
-- Real-time data exploration
-- Visualization techniques
-
-### Guided Exercise (55-80 min)
-- Student practice with provided prompts
-- Individual exploration time
-- Instructor support
-
-### Lightning Recap (80-90 min)
-- Student presentations
-- Best practices review
-- Common pitfalls discussion
 
 ## Expected Outcomes
 By the end of this session, students will be able to:
