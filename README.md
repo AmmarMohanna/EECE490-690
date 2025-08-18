@@ -341,21 +341,22 @@ jupyter notebook "Chapters/C2 - Preparing Data for Statistical Machine Learning 
 - Test all code before committing
 
 ## Contact
+Introduction to Machine Learning (FA25)
+EECE490/EECE690
 
-### Course Instructor
-- **Name**: [Instructor Name]
-- **Email**: [instructor@university.edu]
-- **Office Hours**: [Days and Times]
-- **Office Location**: [Building and Room Number]
+-----------------------------
 
-### Teaching Assistants
-- **TA 1**: [Name] - [email@university.edu]
-- **TA 2**: [Name] - [email@university.edu]
+Ammar Mohanna
 
-### Technical Support
-- **GitHub Issues**: For code-related questions and bug reports
-- **Discussion Forum**: [Link to course discussion platform]
-- **IT Help Desk**: [university-it@university.edu]
+Email: am288@aub.edu.lb
+Office hours: RGB 405 - Tuesday 11:00-13:00, Thursday 13:30-15:30 (first come, first served)
+
+-----------------------------
+
+TAs:
+Mohammad Zbeeb - mbz02@mail.aub.edu
+
+
 
 ---
 
