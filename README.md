@@ -7,7 +7,7 @@
 
 **Course**: EECE490-690 Machine Learning  
 **Institution**: AUB  
-**Academic Year**: 2024-2025  
+**Academic Year**: 2025 - 2926
 
 ## Table of Contents
 
