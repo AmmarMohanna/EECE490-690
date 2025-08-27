@@ -263,43 +263,6 @@ jupyter notebook "Chapters/C2 - Preparing Data for Statistical Machine Learning 
 - Master container orchestration
 - Deploy to cloud infrastructure
 
-**Deliverables**: Live deployed CNN service with public API access
-
-## Assessment
-
-### Grade Distribution
-- **Participation & Engagement**: 15%
-- **In-Class Projects**: 30%
-  - Project 1 (EDA): 10%
-  - Project 2 (ML Pipeline): 10%
-  - Project 3 (DL Deployment): 10%
-- **Midterm Examination**: 25%
-- **Final Project**: 30%
-
-### Assessment Criteria
-- **Technical Implementation**: Correctness and efficiency of code
-- **Documentation Quality**: Clear explanations and reproducible workflows
-- **Problem-Solving Approach**: Systematic methodology and innovation
-- **Communication**: Ability to explain technical concepts clearly
-
-## Prerequisites
-
-### Technical Prerequisites
-- **Programming**: Intermediate Python proficiency
-- **Mathematics**: Linear algebra, calculus, probability and statistics
-- **Tools**: Command line interface, Git version control
-
-### Recommended Background
-- Prior exposure to data analysis or statistical computing
-- Basic understanding of software development practices
-- Familiarity with cloud computing concepts
-
-## Resources
-
-### Primary Textbooks
-- Géron, A. (2019). *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*
-- Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*
-- Murphy, K. P. (2022). *Probabilistic Machine Learning: An Introduction*
 
 ### Online Resources
 - [PyTorch Documentation](https://pytorch.org/docs/)
@@ -318,27 +281,6 @@ jupyter notebook "Chapters/C2 - Preparing Data for Statistical Machine Learning 
 - External datasets are accessed through standard ML libraries
 - Cloud datasets are referenced with appropriate licenses
 
-## Contributing
-
-### For Students
-1. **Fork** the repository for personal experimentation
-2. **Create feature branches** for project work
-3. **Follow naming conventions** for notebooks and files
-4. **Document thoroughly** all code and methodologies
-5. **Submit pull requests** for extra credit contributions
-
-### For Instructors
-1. **Maintain consistency** across all course materials
-2. **Update dependencies** regularly for security and compatibility
-3. **Test all notebooks** before each semester
-4. **Document any environment changes** thoroughly
-
-### Code Standards
-- Follow PEP 8 for Python code style
-- Use meaningful variable and function names
-- Include docstrings for all functions
-- Maintain consistent notebook structure
-- Test all code before committing
 
 ## Contact
 Introduction to Machine Learning (FA25)
