@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/license-Academic-green.svg)
 
 **Course**: EECE490-690 Machine Learning  
-**Institution**: [University Name]  
+**Institution**: AUB  
 **Academic Year**: 2024-2025  
 
 ## Table of Contents
